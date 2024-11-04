@@ -8,8 +8,8 @@ paginate:         5
 
 # About and contact
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Aaron Pruitt'
+  url:            https://mastodon.gamedev.place/@Doge4ever05
 
 # Gems
 plugins:
