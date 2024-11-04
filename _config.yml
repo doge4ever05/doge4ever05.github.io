@@ -3,7 +3,7 @@ title:            The Dogeington Post
 tagline:          'Bad content or your money back!'
 description:      'Made by <a rel="me" href="https://mastodon.gamedev.place/@Doge4ever05" target="_blank">@doge4ever05</a>.'
 url:              https://doge4ever05.github.io
-baseurl:          
+baseurl:          https;//doge4ever05.github.io
 paginate:         5
 
 # About and contact
